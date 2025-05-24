@@ -1,1 +1,1 @@
-# spotify-clone-forntend
+# spotify-clone-frontend
